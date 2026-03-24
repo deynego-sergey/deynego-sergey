@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Sergei 👋
 ### Senior Backend Engineer | Go & Python | Data Automation Specialist
 
 <p align="center">
@@ -39,8 +39,9 @@ I architect high-performance backend systems and resilient data pipelines. My ex
 
 ## 📫 Let's Connect
 - **EasyStaff:** [Link to your profile]
-- **Telegram:** @[your_handle]
-- **LinkedIn:** [Link to your profile]
+- **Telegram:** @SergeyDeynego
+- **LinkedIn:** https://www.linkedin.com/in/sergey-deynego/
+- **Upwork:** https://www.upwork.com/freelancers/~01756bef74d55871eb?viewMode=1
 
 ---
 *“Turning complex, unorganized data into structured business value.”*
