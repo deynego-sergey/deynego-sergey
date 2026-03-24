@@ -38,7 +38,7 @@ I architect high-performance backend systems and resilient data pipelines. My ex
 ---
 
 ## 📫 Let's Connect
-- **EasyStaff:** connect.easystaff.io/easylancer/backendgo
+- **EasyStaff:** https://connect.easystaff.io/easylancer/backendgo
 - **Telegram:** @SergeyDeynego
 - **LinkedIn:** https://www.linkedin.com/in/sergey-deynego/
 - **Upwork:** https://www.upwork.com/freelancers/~01756bef74d55871eb?viewMode=1
